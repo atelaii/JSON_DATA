@@ -1,5 +1,5 @@
 # JSON_DATA
-#####Lyla Luay and Meccah Marie Sarabe BSIT3A-STUDENT
+#####Lyla Luay and Meccah Marie Rabe BSIT3A-STUDENT
 
 ##Document the following query questions. Provide screenshots of the query and the result set.
 ###1. Retrieve Product Information:
